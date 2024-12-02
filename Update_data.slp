@@ -309,7 +309,7 @@
                     },
                     "filePath": {
                         "expression": false,
-                        "value": "directory.csv"
+                        "value": ""
                     },
                     "preventURLEncoding": {
                         "value": false

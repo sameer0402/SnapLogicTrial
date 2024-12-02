@@ -1,0 +1,33 @@
+{
+    "class_id": "com-snaplogic-snaps-transform-fieldcrypto-cryptopassphraseaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "Partners"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "EncryptDecrypt_Account"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "algorithm": {
+                "value": "AES"
+            },
+            "passphrase": {
+                "fp": "5537582b5408b627cd4dd4ff1c4b0ed40ea189ffc33ccf49e196ff6901dea522",
+                "key": "account-cloud-managed-55aeb42a050186140d44b424-2015-07-21T21:05:51-432179",
+                "sym_iv": "iX0fdLdEd66Svw/lezbJbw==",
+                "sym_key": "EIylf2QXKEIfOx2Cy14BlakSPZfSoclvBEwJ5MqqTZUsGO/6AO6kcVyryH1GMRRhSKdrE9MTSjQ4E5wpenv2QTxKKBJuisWUvFVwny9PYeUkKSgvX96vRgjxJ4My0Fk/OsVpdT7ZU1DfXUDtnfSOwXnTgjyKCyEzIPBKIpQdigBFW4xjEZrRbdeKJjOZE4zusu3mykVQwvYFGy0wv7CsEsS1AltgbQ/4Doo6ujH2/mnakp/MZ+4TZwrgvDviPBa+aqy6l1Su0/Erv0cIS0L1rn0ErqRV15OvFYVPY2SDazw8S/Bxj7NTA2ZPaskSYV1OC1t/jDOKmOCKc1vu0ibaOA==",
+                "value": "V1k0+CuV+gcezpuZMcB56A=="
+            },
+            "size": {
+                "value": 128
+            }
+        },
+        "view_serial": 100
+    }
+}
